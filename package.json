@@ -1,0 +1,9 @@
+{
+  "name": "invis-bug-bot",
+  "version": "1.0.0",
+  "main": "telegram.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "@whiskeysockets/baileys": "^6.7.2"
+  }
+}
